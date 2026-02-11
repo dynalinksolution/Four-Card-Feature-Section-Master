@@ -22,10 +22,9 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
+    background: hsla(212, 6%, 44%, .05);
 }
-.container {
 
-}
 .details {
     text-align: center;
     display: flex;
@@ -105,4 +104,5 @@ p {
     .dbl-crds {
         margin: 0 2em;
     }
+
 }
